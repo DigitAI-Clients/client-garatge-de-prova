@@ -1,88 +1,196 @@
 {
-  "Navbar": {
-    "links": { "home": "Inici", "services": "Serveis", "blog": "Blog", "shop": "Botiga", "contact": "Contacte", "about": "Nosaltres" },
-    "cta": "Accés Clients",
-    "actions": { "login": "Accés Client", "cart": "Cistella", "menu": "Menú" }
-  },
   "hero": {
-    "title": "Impulsa el teu negoci al següent nivell",
-    "subtitle": "Solucions digitals a mida, dissenyades per convertir visitants en clients fidels.",
-    "cta": "Començar ara",
-    "image_prompt": "",
-    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1920&q=80"
+    "title": "Garatge de Prova: Optimitza el Rendiment del Teu Vehicle",
+    "subtitle": "Tecnologia d'avantguarda i experiència certificada per portar la teva mobilitat al següent nivell. Manteniment, reparació i millora amb la màxima eficiència.",
+    "cta": "Descobreix els nostres serveis",
+    "image_prompt": "Modern auto repair garage interior, clean and bright, with a high-tech diagnostic machine connected to a car, skilled mechanic in a modern uniform, focus on efficiency and precision.",
+    "image": "https://image.pollinations.ai/prompt/Modern%20auto%20repair%20garage%20interior%2C%20clean%20and%20bright%2C%20with%20a%20high-tech%20diagnostic%20machine%20connected%20to%20a%20car%2C%20skilled%20mechanic%20in%20a%20modern%20uniform%2C%20focus%20on%20efficiency%20and%20precision.?width=1920&height=1080&nologo=true&model=flux"
   },
   "about": {
-    "badge": "Sobre Nosaltres",
-    "title": "La nostra essència",
-    "description": "Som un equip apassionat per la tecnologia, dedicat a transformar idees en solucions digitals robustes.",
-    "image_prompt": "",
-    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2301&auto=format&fit=crop",
-    "features": [ "Compromís innegociable", "Atenció 100% personalitzada", "Innovació constant" ],
-    "stats": [
-      { "label": "Anys", "value": "+10" },
-      { "label": "Clients", "value": "100%" },
-      { "label": "Equip", "value": "20" }
-    ],
-    "card": { "title": "Creixement", "subtitle": "Resultats provats" }
+    "title": "El Futur de la Mecànica Automobilística és Aquí",
+    "description": "A Garatge de Prova, transformem el manteniment del teu vehicle en una inversió intel·ligent. Des de La Bisbal, hem redefinit l'estàndard del servei automobilístic, combinant un diagnòstic precís amb solucions personalitzades. La nostra missió és garantir la màxima durabilitat i eficiència del teu vehicle, aplicant les darreres tecnologies i un enfocament proactiu. No som només un taller; som el teu soci en mobilitat, compromesos amb la teva seguretat i la optimització del rendiment.",
+    "stats": {
+      "label1": "Índex d'Optimització",
+      "label2": "Reducció Emissions",
+      "label3": "Temps de Resposta",
+      "value1": "98%",
+      "value2": "25%*",
+      "value3": "48h"
+    },
+    "badge": "Innovació i Fiabilitat",
+    "image_prompt": "Professional mechanic explaining a digital diagnostic report on a tablet to a satisfied customer in a modern, clean garage office, showing transparent and efficient service.",
+    "image": "https://image.pollinations.ai/prompt/Professional%20mechanic%20explaining%20a%20digital%20diagnostic%20report%20on%20a%20tablet%20to%20a%20satisfied%20customer%20in%20a%20modern%2C%20clean%20garage%20office%2C%20showing%20transparent%20and%20efficient%20service.?width=800&height=600&nologo=true&model=flux"
   },
   "services": {
-    "badge": "Els Nostres Serveis",
-    "title": "Solucions a Mida",
-    "subtitle": "Descobreix com podem ajudar-te.",
     "items": [
-      { "title": "Consultoria", "description": "Analitzem el teu negoci al detall.", "icon_name": "chart" },
-      { "title": "Desenvolupament", "description": "Creem software a mida.", "icon_name": "code" },
-      { "title": "Màrqueting", "description": "Estratègies per créixer.", "icon_name": "rocket" }
-    ]
+      {
+        "description": "Identifiquem amb precisió qualsevol anomalia mitjançant tecnologia de diagnòstic de darrera generació, minimitzant el temps d'inactivitat i maximitzant la fiabilitat.",
+        "icon_name": "cpu",
+        "title": "Diagnòstic Avançat Multimarca"
+      },
+      {
+        "description": "Anticipem possibles avaries i realitzem revisions exhaustives per evitar despeses inesperades i assegurar un funcionament òptim constant.",
+        "icon_name": "settings",
+        "title": "Manteniment Predictiu i Preventiu"
+      },
+      {
+        "description": "Utilitzem peces de recanvi de qualitat original o equivalent i tècniques de reparació homologades per garantir la integritat i el valor del teu vehicle.",
+        "icon_name": "car",
+        "title": "Reparació Especialitzada i Recanvis OE"
+      },
+      {
+        "description": "Programació i ajustos personalitzats per millorar l'eficiència del combustible i potenciar la resposta del motor sense comprometre la fiabilitat.",
+        "icon_name": "gauge",
+        "title": "Optimització de Consum i Prestacions"
+      }
+    ],
+    "badge": "Solucions Integrals",
+    "subtitle": "Ampliem la Vida Útil i el Rendiment del Teu Vehicle",
+    "title": "Serveis que Impulsen la Teva Mobilitat"
   },
   "featured_products": {
-    "title": "Selecció Exclusiva",
-    "subtitle": "Descobreix els productes més destacats de la nostra col·lecció.",
+    "title": "Selecció",
+    "subtitle": "Els nostres millors productes",
     "limit": 4
   },
   "testimonials": {
-    "badge": "Opinions",
-    "title": "La veu dels nostres clients",
-    "subtitle": "La satisfacció dels qui confien en nosaltres.",
     "reviews": [
-      { "author": "Laura M.", "role": "Clienta", "text": "Un servei impecable.", "rating": 5 },
-      { "author": "Carles R.", "role": "Empresari", "text": "Professionalitat pura.", "rating": 5 }
-    ]
-  },
-  "cta_banner": {
-    "heading": "Vols saber-ne més?",
-    "subheading": "Estem a un clic de distància.",
-    "buttonText": "Contactar",
-    "buttonLink": "/contact"
+      {
+        "author": "Marc Pujol",
+        "avatar_gender": "male",
+        "role": "Empresari Local",
+        "text": "Vaig portar la meva furgoneta de repartiment per una revisió i el diagnòstic va ser increïblement ràpid i precís. Van solucionar un problema que altres tallers no veien. La furgoneta funciona millor que mai. Absolutament recomanable per a professionals!",
+        "avatar": "https://randomuser.me/api/portraits/men/20.jpg"
+      },
+      {
+        "author": "Laura Pons",
+        "avatar_gender": "female",
+        "role": "Dissenyadora Gràfica",
+        "text": "Sempre he buscat un taller de confiança on no em sentís enganyada. A Garatge de Prova, la transparència i l'atenció personalitzada són excel·lents. M'expliquen cada pas i el preu és just. Ja no porto el cotxe enlloc més!",
+        "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+      },
+      {
+        "author": "Jordi Soler",
+        "avatar_gender": "male",
+        "role": "Professor Universitari",
+        "text": "Necessitava una optimització del motor per reduir el consum del meu cotxe. Els resultats han estat sorprenents, he notat una diferència real en el rendiment i el dipòsit dura més. Professionalitat i innovació al servei del client.",
+        "avatar": "https://randomuser.me/api/portraits/men/22.jpg"
+      }
+    ],
+    "badge": "La Nostra Reputació Parla Sola",
+    "subtitle": "Clients satisfets que confien en la nostra professionalitat i resultats.",
+    "title": "El que els Nostres Clients Opinen"
   },
   "map": {
-    "title": "On Som",
-    "subtitle": "Visita les nostres oficines centrals."
+    "title": "La Teva Solució de Mobilitat a La Bisbal",
+    "subtitle": "Ens trobaràs fàcilment al Polígon Industrial, amb accés ràpid des de la C-66. Consulta el mapa per planificar la teva visita."
+  },
+  "cta_banner": {
+    "heading": "Estàs Preparat per a una Experiència de Conducció Superior?",
+    "buttonText": "Demana la teva Cita Ara",
+    "subheading": "No esperis que sorgeixin problemes. Programa avui mateix la teva cita i assegura el rendiment òptim del teu vehicle amb els experts."
   },
   "faq": {
     "title": "Preguntes Freqüents",
-    "subtitle": "Resolem els dubtes més habituals.",
     "items": [
-      { "question": "Quin és l'horari?", "answer": "De Dilluns a Divendres de 9h a 18h." },
-      { "question": "Oferiu suport?", "answer": "Sí, suport 24/7 per a clients premium." }
-    ]
+      {
+        "answer": "A Garatge de Prova som especialistes en una àmplia gamma de vehicles, des de turismes particulars de totes les marques fins a vehicles comercials lleugers. La nostra tecnologia de diagnòstic multimarca ens permet oferir solucions a mida per a cada model.",
+        "question": "Quin tipus de vehicles repareu?"
+      },
+      {
+        "answer": "Entenem la importància de la teva mobilitat. Per això, oferim la possibilitat de vehicle de substitució mentre el teu està al taller, subjecte a disponibilitat i condicions. Consulta'ns per a més detalls.",
+        "question": "Oferiu servei de vehicle de substitució?"
+      },
+      {
+        "answer": "Una revisió bàsica sol completar-se en un termini d'entre 1 i 2 hores, depenent del model i les especificacions. Tanmateix, sempre et proporcionarem un temps estimat precís en el moment de la reserva, prioritzant la teva comoditat.",
+        "question": "Quant de temps triga una revisió bàsica?"
+      },
+      {
+        "answer": "Prioritzem la qualitat i la fiabilitat. Per això, treballem principalment amb recanvis de qualitat original (OE) o equivalents de primera marca que compleixen o superen els estàndards del fabricant, garantint la màxima durabilitat i seguretat.",
+        "question": "Utilitzeu recanvis originals o alternatius?"
+      }
+    ],
+    "subtitle": "Resolem els teus dubtes més habituals sobre els nostres serveis."
   },
   "contact": {
-    "title": "Parlem?",
-    "description": "Estem aquí per ajudar-te.",
-    "button": "Enviar"
+    "title": "Parlem de la Teva Mobilitat?",
+    "button": "Contacta amb Nosaltres",
+    "description": "Si tens qualsevol dubte o necessites un pressupost personalitzat, el nostre equip està a la teva disposició. Contacta amb nosaltres i descobreix com podem ajudar-te."
+  },
+  "Navbar": {
+    "links": {
+      "home": "Inici",
+      "services": "Serveis",
+      "blog": "Blog",
+      "shop": "Botiga",
+      "contact": "Contacte",
+      "about": "Nosaltres"
+    },
+    "cta": "Accés Clients",
+    "actions": {
+      "login": "Entrar",
+      "cart": "Cistella",
+      "menu": "Menú"
+    }
+  },
+  "Footer": {
+    "description": "Transformem idees en realitats digitals.",
+    "rights_reserved": "Tots els drets reservats.",
+    "legal": {
+      "privacy": "Privacitat",
+      "cookies": "Cookies",
+      "terms": "Termes"
+    }
   },
   "Booking": {
-    "title": "Reserva", "subtitle": "Tria hora",
+    "title": "Reserva la teva cita",
+    "subtitle": "Selecciona el servei i l'hora.",
     "steps": {
-      "services": { "title": "Servei", "select": "Triar", "duration": "min" },
-      "datetime": { "select_day_title": "Dia", "select_time_title": "Hora", "loading": "...", "back": "Enrere", "empty_state_day": "-", "empty_state_slots": "-" },
-      "form": { "title": "Dades", "subtitle": "...", "personal_info": "Info", "labels": { "name": "Nom", "email": "Email" }, "submit": "Confirmar", "submitting": "..." },
-      "success": { "title": "Fet!", "message": "Email enviat.", "home_button": "Inici" }
+      "services": {
+        "title": "Serveis",
+        "select": "Seleccionar",
+        "duration": "min"
+      },
+      "datetime": {
+        "select_day_title": "Tria dia",
+        "select_time_title": "Tria hora",
+        "loading": "Cercant...",
+        "back": "Enrere",
+        "empty_state_day": "Selecciona dia",
+        "empty_state_slots": "No hi ha hores"
+      },
+      "form": {
+        "title": "Dades",
+        "subtitle": "Completa la reserva",
+        "personal_info": "Info",
+        "labels": {
+          "name": "Nom",
+          "email": "Email"
+        },
+        "submit": "Confirmar",
+        "submitting": "Enviant..."
+      },
+      "success": {
+        "title": "Reserva Confirmada!",
+        "message": "Rebràs un email.",
+        "home_button": "Inici"
+      }
     },
-    "errors": { "load_slots": "Error", "required_field": "Req" }
+    "errors": {
+      "load_slots": "Error horaris",
+      "required_field": "Obligatori"
+    }
   },
-  "Shop": { "featuredTitle": "Botiga", "featuredSubtitle": "Top", "addToCart": "Afegir", "outOfStock": "Esgotat" },
-  "Blog": { "title": "Blog", "subtitle": "Notícies", "readMore": "Llegir", "empty": "No hi ha posts" },
-  "Footer": { "description": "Transformem negocis.", "rights_reserved": "Tots els drets reservats." }
+  "Shop": {
+    "featuredTitle": "Destacats",
+    "featuredSubtitle": "Selecció exclusiva",
+    "addToCart": "Afegir",
+    "outOfStock": "Esgotat"
+  },
+  "Blog": {
+    "title": "Blog",
+    "subtitle": "Notícies i consells",
+    "readMore": "Llegir més",
+    "empty": "No hi ha articles"
+  }
 }
