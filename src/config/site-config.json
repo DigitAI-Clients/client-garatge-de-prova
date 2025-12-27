@@ -1,0 +1,22 @@
+{
+  "name": "DigitAI Template Default",
+  "description": "Plantilla base per a negocis",
+  "sector": "general",
+  "features": {
+    "booking": true,
+    "ecommerce": false,
+    "blog": true,
+    "gallery": true,
+    "faq": true
+  },
+  "theme": {
+    "primary": "#000000",
+    "layout": "modern"
+  },
+  "contact": {
+    "email": "demo@example.com",
+    "phone": "+34 600 000 000",
+    "address": "Barcelona",
+    "socials": {}
+  }
+}

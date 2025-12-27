@@ -1,0 +1,176 @@
+{
+  "Navbar": {
+    "links": {
+      "home": "Home",
+      "services": "Services",
+      "blog": "Blog",
+      "shop": "Shop",
+      "contact": "Contact",
+      "about": "About Us"
+    },
+    "cta": "Client Access",
+    "actions": {
+      "login": "Client Login",
+      "cart": "Cart",
+      "menu": "Menu"
+    }
+  },
+  "hero": {
+    "title": "Take your business to the next level",
+    "subtitle": "Custom digital solutions designed to turn visitors into loyal customers. Cutting-edge technology at your fingertips.",
+    "cta": "Start Now",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1920&q=80"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "Our Essence",
+    "description": "We are a team passionate about technology, dedicated to transforming ideas into robust and scalable digital solutions.",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2301&auto=format&fit=crop",
+    "features": [
+      "Non-negotiable commitment to quality",
+      "100% personalized attention",
+      "Constant technological innovation"
+    ],
+    "stats": [
+      {
+        "label": "Years",
+        "value": "+10"
+      },
+      {
+        "label": "Clients",
+        "value": "100%"
+      },
+      {
+        "label": "Team",
+        "value": "20"
+      }
+    ],
+    "card": {
+      "title": "Growth",
+      "subtitle": "Proven results"
+    }
+  },
+  "testimonials": {
+    "badge": "Reviews",
+    "title": "Our Clients' Voice",
+    "subtitle": "The satisfaction of those who trust us is our best guarantee.",
+    "reviews": [
+      {
+        "author": "Laura M.",
+        "role": "Regular Client",
+        "text": "Impeccable service. They understood what I needed from the very first moment. I will definitely come back.",
+        "rating": 5,
+        "avatar": ""
+      },
+      {
+        "author": "Carles R.",
+        "role": "Business Owner",
+        "text": "Professionalism and attention to detail. They have far exceeded my expectations.",
+        "rating": 5,
+        "avatar": ""
+      },
+      {
+        "author": "Marta S.",
+        "role": "Visitor",
+        "text": "Highly recommended. The treatment is friendly and the final result is excellent.",
+        "rating": 4,
+        "avatar": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Talk?",
+    "description": "We are here to help you.",
+    "button": "Send"
+  },
+  "Booking": {
+    "title": "Book Your Appointment",
+    "subtitle": "Select the service and time.",
+    "steps": {
+      "services": {
+        "title": "What service do you need?",
+        "duration": "{minutes} min",
+        "select": "Select"
+      },
+      "datetime": {
+        "back": "Back",
+        "select_day_title": "Choose Day",
+        "select_time_title": "Choose Time",
+        "empty_state_day": "Select a day.",
+        "empty_state_slots": "No slots available.",
+        "loading": "Searching..."
+      },
+      "form": {
+        "back": "Change",
+        "title": "Details",
+        "subtitle": "Complete.",
+        "personal_info": "Personal Info",
+        "additional_info": "Extra Info",
+        "labels": {
+          "name": "Name",
+          "email": "Email"
+        },
+        "submit": "Confirm",
+        "submitting": "Sending..."
+      },
+      "success": {
+        "title": "Booking Confirmed!",
+        "message": "Email sent.",
+        "home_button": "Home"
+      }
+    },
+    "errors": {
+      "load_slots": "Schedule error.",
+      "required_field": "Required."
+    }
+  },
+  "Footer": {
+    "description": "Transforming businesses.",
+    "rights_reserved": "All rights reserved."
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "We answer the most common questions from our clients.",
+    "items": [
+      {
+        "question": "What are your business hours?",
+        "answer": "We are available from Monday to Friday. For weekend or holiday hours, we recommend contacting us directly."
+      },
+      {
+        "question": "How can I contact you?",
+        "answer": "You can easily do so through the contact form on this page, sending us an email, or calling us by phone."
+      },
+      {
+        "question": "Do you offer personalized services?",
+        "answer": "Absolutely. We like to adapt to the unique needs of each client. Tell us what you are looking for and we will find the ideal solution."
+      },
+      {
+        "question": "Is it necessary to make an appointment?",
+        "answer": "We recommend booking in advance to ensure the best possible attention and avoid waiting, especially during peak hours."
+      }
+    ]
+  },
+  "cta_banner": {
+    "heading": "Want to know more?",
+    "subheading": "We are just a click away to start working together.",
+    "buttonText": "Contact",
+    "buttonLink": "/contact"
+  },
+  "services": {
+    "badge": "Our Services",
+    "title": "Custom Solutions",
+    "subtitle": "Discover how we can help you achieve your goals.",
+    "items": []
+  },
+  "featured_products": {
+    "title": "Exclusive Selection",
+    "subtitle": "Discover the featured products from our collection.",
+    "limit": 4
+  },
+  "Shop": {
+    "addToCart": "Add to Cart",
+    "outOfStock": "Out of Stock"
+  }
+}

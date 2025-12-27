@@ -1,0 +1,176 @@
+{
+  "Navbar": {
+    "links": {
+      "home": "Inicio",
+      "services": "Servicios",
+      "blog": "Blog",
+      "shop": "Tienda",
+      "contact": "Contacto",
+      "about": "Nosotros"
+    },
+    "cta": "Acceso Clientes",
+    "actions": {
+      "login": "Acceso Cliente",
+      "cart": "Cesta",
+      "menu": "Menú"
+    }
+  },
+  "hero": {
+    "title": "Impulsa tu negocio al siguiente nivel",
+    "subtitle": "Soluciones digitales a medida, diseñadas para convertir visitantes en clientes fieles. Tecnología de vanguardia a tu alcance.",
+    "cta": "Empezar ahora",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1920&q=80"
+  },
+  "about": {
+    "badge": "Sobre Nosotros",
+    "title": "Nuestra esencia",
+    "description": "Somos un equipo apasionado por la tecnología, dedicado a transformar ideas en soluciones digitales robustas y escalables.",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2301&auto=format&fit=crop",
+    "features": [
+      "Compromiso innegociable con la calidad",
+      "Atención 100% personalizada",
+      "Innovación tecnológica constante"
+    ],
+    "stats": [
+      {
+        "label": "Años",
+        "value": "+10"
+      },
+      {
+        "label": "Clientes",
+        "value": "100%"
+      },
+      {
+        "label": "Equipo",
+        "value": "20"
+      }
+    ],
+    "card": {
+      "title": "Crecimiento",
+      "subtitle": "Resultados probados"
+    }
+  },
+  "testimonials": {
+    "badge": "Opiniones",
+    "title": "La voz de nuestros clientes",
+    "subtitle": "La satisfacción de quienes confían en nosotros es nuestra mejor garantía.",
+    "reviews": [
+      {
+        "author": "Laura M.",
+        "role": "Clienta Habitual",
+        "text": "Un servicio impecable. Desde el primer momento entendieron lo que necesitaba. Repetiré seguro.",
+        "rating": 5,
+        "avatar": ""
+      },
+      {
+        "author": "Carles R.",
+        "role": "Empresario",
+        "text": "Profesionalidad y atención al detalle. Han superado mis expectativas con creces.",
+        "rating": 5,
+        "avatar": ""
+      },
+      {
+        "author": "Marta S.",
+        "role": "Visitante",
+        "text": "Muy recomendable. El trato es cercano y el resultado final excelente.",
+        "rating": 4,
+        "avatar": ""
+      }
+    ]
+  },
+  "contact": {
+    "title": "¿Hablamos?",
+    "description": "Estamos aquí para ayudarte.",
+    "button": "Enviar"
+  },
+  "Booking": {
+    "title": "Reserva tu cita",
+    "subtitle": "Selecciona el servicio y la hora.",
+    "steps": {
+      "services": {
+        "title": "¿Qué servicio necesitas?",
+        "duration": "{minutes} min",
+        "select": "Seleccionar"
+      },
+      "datetime": {
+        "back": "Volver",
+        "select_day_title": "Elige día",
+        "select_time_title": "Elige hora",
+        "empty_state_day": "Selecciona día.",
+        "empty_state_slots": "No hay horas.",
+        "loading": "Buscando..."
+      },
+      "form": {
+        "back": "Cambiar",
+        "title": "Datos",
+        "subtitle": "Completa.",
+        "personal_info": "Info Personal",
+        "additional_info": "Info Extra",
+        "labels": {
+          "name": "Nombre",
+          "email": "Email"
+        },
+        "submit": "Confirmar",
+        "submitting": "Enviando..."
+      },
+      "success": {
+        "title": "¡Reserva Confirmada!",
+        "message": "Email enviado.",
+        "home_button": "Inicio"
+      }
+    },
+    "errors": {
+      "load_slots": "Error horarios.",
+      "required_field": "Obligatorio."
+    }
+  },
+  "Footer": {
+    "description": "Transformamos negocios.",
+    "rights_reserved": "Todos los derechos reservados."
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Resolvemos las dudas más habituales de nuestros clientes.",
+    "items": [
+      {
+        "question": "¿Cuál es vuestro horario de atención?",
+        "answer": "Estamos a tu disposición de lunes a viernes. Para horarios de fin de semana o festivos, te recomendamos contactar directamente."
+      },
+      {
+        "question": "¿Cómo puedo contactar con vosotros?",
+        "answer": "Puedes hacerlo fácilmente a través del formulario de contacto de esta página, enviándonos un email o llamándonos por teléfono."
+      },
+      {
+        "question": "¿Ofrecéis servicios personalizados?",
+        "answer": "Por supuesto. Nos gusta adaptarnos a las necesidades únicas de cada cliente. Cuéntanos qué buscas y encontraremos la solución ideal."
+      },
+      {
+        "question": "¿Es necesario pedir cita previa?",
+        "answer": "Recomendamos reservar con antelación para garantizarte la mejor atención posible y evitar esperas, especialmente en horas punta."
+      }
+    ]
+  },
+  "cta_banner": {
+    "heading": "¿Quieres saber más?",
+    "subheading": "Estamos a un clic de distancia para empezar a trabajar juntos.",
+    "buttonText": "Contactar",
+    "buttonLink": "/contact"
+  },
+  "services": {
+    "badge": "Nuestros Servicios",
+    "title": "Soluciones a Medida",
+    "subtitle": "Descubre cómo podemos ayudarte a alcanzar tus objetivos.",
+    "items": []
+  },
+  "featured_products": {
+    "title": "Selección Exclusiva",
+    "subtitle": "Descubre los productos más destacados de nuestra colección.",
+    "limit": 4
+  },
+  "Shop": {
+    "addToCart": "Añadir a la cesta",
+    "outOfStock": "Agotado"
+  }
+}

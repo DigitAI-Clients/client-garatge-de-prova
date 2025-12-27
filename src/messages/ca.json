@@ -1,0 +1,88 @@
+{
+  "Navbar": {
+    "links": { "home": "Inici", "services": "Serveis", "blog": "Blog", "shop": "Botiga", "contact": "Contacte", "about": "Nosaltres" },
+    "cta": "Accés Clients",
+    "actions": { "login": "Accés Client", "cart": "Cistella", "menu": "Menú" }
+  },
+  "hero": {
+    "title": "Impulsa el teu negoci al següent nivell",
+    "subtitle": "Solucions digitals a mida, dissenyades per convertir visitants en clients fidels.",
+    "cta": "Començar ara",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1552566626-52f8b828add9?auto=format&fit=crop&w=1920&q=80"
+  },
+  "about": {
+    "badge": "Sobre Nosaltres",
+    "title": "La nostra essència",
+    "description": "Som un equip apassionat per la tecnologia, dedicat a transformar idees en solucions digitals robustes.",
+    "image_prompt": "",
+    "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=2301&auto=format&fit=crop",
+    "features": [ "Compromís innegociable", "Atenció 100% personalitzada", "Innovació constant" ],
+    "stats": [
+      { "label": "Anys", "value": "+10" },
+      { "label": "Clients", "value": "100%" },
+      { "label": "Equip", "value": "20" }
+    ],
+    "card": { "title": "Creixement", "subtitle": "Resultats provats" }
+  },
+  "services": {
+    "badge": "Els Nostres Serveis",
+    "title": "Solucions a Mida",
+    "subtitle": "Descobreix com podem ajudar-te.",
+    "items": [
+      { "title": "Consultoria", "description": "Analitzem el teu negoci al detall.", "icon_name": "chart" },
+      { "title": "Desenvolupament", "description": "Creem software a mida.", "icon_name": "code" },
+      { "title": "Màrqueting", "description": "Estratègies per créixer.", "icon_name": "rocket" }
+    ]
+  },
+  "featured_products": {
+    "title": "Selecció Exclusiva",
+    "subtitle": "Descobreix els productes més destacats de la nostra col·lecció.",
+    "limit": 4
+  },
+  "testimonials": {
+    "badge": "Opinions",
+    "title": "La veu dels nostres clients",
+    "subtitle": "La satisfacció dels qui confien en nosaltres.",
+    "reviews": [
+      { "author": "Laura M.", "role": "Clienta", "text": "Un servei impecable.", "rating": 5 },
+      { "author": "Carles R.", "role": "Empresari", "text": "Professionalitat pura.", "rating": 5 }
+    ]
+  },
+  "cta_banner": {
+    "heading": "Vols saber-ne més?",
+    "subheading": "Estem a un clic de distància.",
+    "buttonText": "Contactar",
+    "buttonLink": "/contact"
+  },
+  "map": {
+    "title": "On Som",
+    "subtitle": "Visita les nostres oficines centrals."
+  },
+  "faq": {
+    "title": "Preguntes Freqüents",
+    "subtitle": "Resolem els dubtes més habituals.",
+    "items": [
+      { "question": "Quin és l'horari?", "answer": "De Dilluns a Divendres de 9h a 18h." },
+      { "question": "Oferiu suport?", "answer": "Sí, suport 24/7 per a clients premium." }
+    ]
+  },
+  "contact": {
+    "title": "Parlem?",
+    "description": "Estem aquí per ajudar-te.",
+    "button": "Enviar"
+  },
+  "Booking": {
+    "title": "Reserva", "subtitle": "Tria hora",
+    "steps": {
+      "services": { "title": "Servei", "select": "Triar", "duration": "min" },
+      "datetime": { "select_day_title": "Dia", "select_time_title": "Hora", "loading": "...", "back": "Enrere", "empty_state_day": "-", "empty_state_slots": "-" },
+      "form": { "title": "Dades", "subtitle": "...", "personal_info": "Info", "labels": { "name": "Nom", "email": "Email" }, "submit": "Confirmar", "submitting": "..." },
+      "success": { "title": "Fet!", "message": "Email enviat.", "home_button": "Inici" }
+    },
+    "errors": { "load_slots": "Error", "required_field": "Req" }
+  },
+  "Shop": { "featuredTitle": "Botiga", "featuredSubtitle": "Top", "addToCart": "Afegir", "outOfStock": "Esgotat" },
+  "Blog": { "title": "Blog", "subtitle": "Notícies", "readMore": "Llegir", "empty": "No hi ha posts" },
+  "Footer": { "description": "Transformem negocis.", "rights_reserved": "Tots els drets reservats." }
+}
