@@ -1,22 +1,66 @@
 {
-  "name": "DigitAI Template Default",
-  "description": "Plantilla base per a negocis",
+  "name": "Garatge de Prova",
+  "description": "Tecnologia d'avantguarda i experiència certificada per portar la teva mobilitat al següent nivell. Manteniment, reparació i millora amb la màxima eficiència.",
   "sector": "general",
   "features": {
-    "booking": true,
+    "booking": false,
     "ecommerce": false,
     "blog": true,
-    "gallery": true,
-    "faq": true
+    "gallery": false,
+    "faq": false
   },
   "theme": {
-    "primary": "#000000",
+    "primary": "#a855f7",
     "layout": "modern"
   },
+  "landing": {
+    "sections": [
+      {
+        "id": "hero",
+        "type": "hero"
+      },
+      {
+        "id": "about",
+        "type": "about"
+      },
+      {
+        "id": "services",
+        "type": "services"
+      },
+      {
+        "id": "cta_banner",
+        "type": "cta_banner"
+      },
+      {
+        "id": "testimonials",
+        "type": "testimonials"
+      },
+      {
+        "id": "map",
+        "type": "map"
+      },
+      {
+        "id": "contact",
+        "type": "contact"
+      },
+      {
+        "id": "faq",
+        "type": "faq"
+      },
+      {
+        "id": "featured_products",
+        "type": "featured_products"
+      }
+    ]
+  },
   "contact": {
-    "email": "demo@example.com",
-    "phone": "+34 600 000 000",
-    "address": "Barcelona",
-    "socials": {}
+    "email": "info@canjosep.com",
+    "phone": "+34697974872",
+    "address": "Jofre El Pilos 25",
+    "socials": {
+      "instagram": "",
+      "linkedin": "",
+      "twitter": ""
+    }
   }
 }
